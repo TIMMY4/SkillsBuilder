@@ -60,7 +60,7 @@ public class SkillsBuliding {
        }
        System.out.println("sum "+sum+ " avg "+avg);
         */
-       S
+       
     }
     
     
